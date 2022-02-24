@@ -2,7 +2,7 @@ CS152 Project Phase 1 - Lexical Analyzer Generation Using flex
 ===============================================================
 
 
-[Home Page - Phase1 Lexer](https://www.cs.ucr.edu/~dtan004/proj1/phase1_lexer.html)
+[Home Page - Phase1 Lexer](https://cs152-ucr-gupta.github.io/website/phase1_lexer.html)
 
 
 ## Tools preparation
