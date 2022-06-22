@@ -50,18 +50,6 @@ Before the deadline, you can create commits and push to Github without any limit
 
 ![image](https://user-images.githubusercontent.com/6300305/148487911-7bcaa3ac-2c8e-4ee3-9ead-ab908d5e1710.png)
 
-
-## Project Demo and Grading
-
-The project demo will be held in the next lab section after the due date. All teams should attend it since it's important to ensure that your code can move smoothly to the next phase. Contact your TA if you need to change your demo time. 
-You grade will be updated on eLearn (usually in 1 week after your demo time). 
-
-| Grading rules | Points(%) |
-| ---------------- | -- |
-|Successfully Build| 10%|
-|Correctness       | 80%|
-|Demo              | 10%|
-
 ## Academic integrity
 
 Copying source code from students in previous semester and other teams will be considered a violation of academic integrity. 
