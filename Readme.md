@@ -38,17 +38,7 @@ You can change any files and add additional C files, but please make sure all fi
 * Start Date: 6/22/2022
 * Due Date:   6/29/2022
 
-Project submission requires you to commit and push your code to Github after finishing the phase1 project. As the following steps:
-```sh
-git status # it should be under 'main' branch (otherwise you should switch to 'main' branch by typing 'git checkout main')
-git add .  # add all files under current folder into staged changes
-git commit -m "phase1 submission"  # make a commit for your changes
-git push   # push all local commits to Github, this step may need your username and password of Github
-```
-
-Before the deadline, you can create commits and push to Github without any limitation. Please make sure your code under 'main' branch is the last version you wish to submit. After the deadline, please do not push new commits to 'main' branch otherwise it will be considered as a late submission.
-
-![image](https://user-images.githubusercontent.com/6300305/148487911-7bcaa3ac-2c8e-4ee3-9ead-ab908d5e1710.png)
+Submit your project on Elearn. If you are doing the project in a group of two, each group member should submit the project separately. 
 
 ## Academic integrity
 
