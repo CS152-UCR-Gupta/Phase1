@@ -36,7 +36,7 @@ You can change any files and add additional C files, but please make sure all fi
 ## Project Submission 
 
 * Start Date: 8/01/2023
-* Due Date:   8/07/2023
+* Due Date:   8/08/2023
 
 Submit your project on Elearn. If you are doing the project in a group of two, each group member should submit the project separately. 
 
